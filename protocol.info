@@ -1,0 +1,4 @@
+name = Protocol
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
